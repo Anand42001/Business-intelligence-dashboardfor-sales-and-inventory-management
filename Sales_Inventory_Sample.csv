@@ -1,0 +1,18 @@
+SALES BY PRODUCT,,SALES BY REGION,,,,SALES BY CATEGORY,,,,,MONTHLY SALES TRENDS,
+Product,Sum of Revenue,REGION,Sum of Revenue,,,CATEGORY,Sum of Profit,,,,DATES,Sum of Revenue
+Charger,15000,East,418500,,,Accessories,53900,,,,1/1/2024,272000
+External HD,37500,North,332800,,,Electronics,223500,,,,1/2/2024,155000
+Gaming Pad,37800,South,338000,,,Grand Total,277400,,,,1/3/2024,447000
+Headphones,30000,West,205800,,,,,,,,1/4/2024,169800
+Keyboard,12000,Grand Total,1295100,,,,,,,,1/5/2024,251300
+Laptop,250000,,,,,,,,,,Grand Total,1295100
+Monitor,105000,,,,,,,,,,,
+Mouse,10000,,,,,,,,,,,
+Printer,72000,,,,,,,,,,,
+Smartphone,360000,,,,,,,,,,,
+Smartwatch,176000,,,,,,,,,,,
+Speakers,28800,,,,,,,,,,,
+Tablet,132000,,,,,,,,,,,
+USB Cable,9000,,,,,,,,,,,
+Webcam,20000,,,,,,,,,,,
+Grand Total,1295100,,,,,,,,,,,
