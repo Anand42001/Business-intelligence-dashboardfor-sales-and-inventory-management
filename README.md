@@ -35,7 +35,7 @@ This Excel project provides a comprehensive **Business Intelligence Dashboard** 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Dashboard_Preview.jpeg)
 
 ---
 
