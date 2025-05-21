@@ -1,0 +1,16 @@
+Date,Product,Category,Region,Units Sold,Unit Price,Cost Price
+2024-01-01,Laptop,Electronics,North,5,50000,40000
+2024-01-01,Mouse,Accessories,South,20,500,300
+2024-01-01,Keyboard,Accessories,East,10,1200,800
+2024-01-02,Monitor,Electronics,West,7,15000,12000
+2024-01-02,Charger,Accessories,North,25,700,450
+2024-01-03,Smartphone,Electronics,South,8,30000,25000
+2024-01-03,USB Cable,Accessories,East,30,200,100
+2024-01-04,Tablet,Electronics,West,4,22000,18000
+2024-01-04,Headphones,Accessories,North,15,1500,900
+2024-01-05,Camera,Electronics,South,3,45000,37000
+2024-01-05,Tripod,Accessories,East,12,2500,1800
+2024-01-06,Speaker,Electronics,West,6,8000,6000
+2024-01-06,Webcam,Accessories,North,9,3000,2100
+2024-01-07,Printer,Electronics,South,2,12000,9500
+2024-01-07,Scanner,Electronics,East,1,18000,14000
